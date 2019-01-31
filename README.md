@@ -15,4 +15,4 @@ The application will then calculate your total and show you the amount for item(
 After this, the user will then be prompted to either contiue shopping or to quit.
 
 Below is a video of the basic operation of this application. 
-https://drive.google.com/file/d/1BzkP6PiDWJAs69yFN1dNzi9hc6hCjZ7I/view
+https://youtu.be/CX5u1axr5K0
