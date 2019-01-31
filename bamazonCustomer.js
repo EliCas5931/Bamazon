@@ -82,7 +82,7 @@ function purchaseAnother() {
                 message: "Would you like to continue shopping?"
             }
         ]).then(function(answer) {
-            if (answer.reply) {
+            if (answer.keepShopping) {
                 startBamazon();
             } else {
                 console.log("Thank you for your business, please shop with us again soon!")
